@@ -1,0 +1,21 @@
+Company,Contact Name,Title,Email,Phone,LinkedIn,Type,Status,Priority,Verified,Notes,Last Contact,Next Action
+Microsoft,Melanie Nakagawa,Chief Sustainability Officer,mnakagawa@microsoft.com,,,Stargate Equity,Not Contacted,1,Yes - Hunter verified,"Carbon negative by 2030, $1B climate fund",,Send intro email
+Oracle,Jon Chorley,Chief Sustainability Officer,jon.chorley@oracle.com,,,Stargate Equity,Not Contacted,2,Unverified - guessed format,"Stargate equity funder, building infrastructure",,Verify email then send
+Google,Kate Brandt,Chief Sustainability Officer,katebrandt@google.com,,,Big Tech - Net Zero,Not Contacted,3,Yes - Hunter verified,"24/7 carbon-free by 2030, Texas data centers",,Send intro email
+Amazon,Kara Hurst,VP Worldwide Sustainability,karahurst@amazon.com,,,Big Tech - Net Zero,Not Contacted,4,Yes - Hunter verified,"Climate Pledge co-founder, net-zero 2040",,Send intro email
+OpenAI,Katrina Mansoni,Chief Operating Officer,katrina@openai.com,,,Stargate Operational Lead,Not Contacted,5,Yes - Hunter found,"Operations lead - may own sustainability",,Send intro email
+OpenAI,Adrian Fong,SVP Corporate Development,adrian@openai.com,,,Stargate Operational Lead,Not Contacted,5,Yes - Hunter found,"May handle Stargate partnerships",,Send intro email
+NVIDIA,Mark Kang,VP AI Infrastructure,mkang@nvidia.com,,,Stargate Tech Partner,Not Contacted,6,Yes - Hunter found,"AI infrastructure - relevant to Stargate compute",,Send intro email
+Arm,Drew Henry,EVP Strategy,drew.henry@arm.com,,,Stargate Tech Partner,Not Contacted,7,Yes - Hunter found,"Strategy lead at Arm, net-zero by 2030 company",,Send intro email
+Oncor,Allen Nye,Chief Executive Officer,allen.nye@oncor.com,,,Texas Utility,Not Contacted,10,Yes - Hunter found,"Major Texas utility, likely supplying Stargate power",,Send intro email
+Oncor,Jim Greer,Chief Operating Officer,jim.greer@oncor.com,,,Texas Utility,Not Contacted,10,Yes - Hunter found,"Operations lead - Texas grid",,Send intro email
+NextEra Energy,Matthew Schafer,Vice President,matthew.schafer@nexteraenergy.com,,,Renewable Energy,Not Contacted,11,Yes - Hunter found,"Largest renewable energy company in US",,Send intro email
+NextEra Energy,Nicole Daggs,EVP Human Resources,nicole.daggs@nexteraenergy.com,,,Renewable Energy,Not Contacted,11,Yes - Hunter found,"Executive team - may have ESG contact",,Research sustainability contact
+Digital Realty,Jennifer Varnes,VP Compliance,jvarnes@digitalrealty.com,,,Data Center REIT,Not Contacted,12,Yes - Hunter found,"Compliance/ESG likely overlap, major DC provider",,Send intro email
+Equinix,Aj Coon,SVP Engineering,acoon@equinix.com,,,Data Center REIT,Not Contacted,13,Yes - Hunter found,"Data center provider with net-zero goals",,Research sustainability contact
+Invenergy,Julia Kimmerly,VP Renewable Energy,jkimmerly@invenergy.com,,,Renewable Developer,Not Contacted,14,Yes - Hunter found,"Major wind/solar developer, may need offsets",,Send intro email
+Invenergy,Rhonda Jones,VP Compliance,rjones@invenergy.com,,,Renewable Developer,Not Contacted,14,Yes - Hunter found,"Compliance lead - ESG overlap",,Send intro email
+Pattern Energy,Kristen Haas,VP Corporate Development,kristen.haas@patternenergy.com,,,Renewable Developer,Not Contacted,15,Yes - Hunter found,"Corp dev - may handle carbon/offset partnerships",,Send intro email
+Pattern Energy,Steve Caminati,VP Government Affairs,steve.caminati@patternenergy.com,,,Renewable Developer,Not Contacted,15,Yes - Hunter found,"Gov affairs - policy/carbon credit angle",,Send intro email
+SoftBank,TBD,ESG/Sustainability Lead,,,,,Stargate Financial Lead,Not Contacted,8,Not found,"Japan HQ - try group.softbank.com or US subsidiary",,Research contact
+MGX,TBD,ESG Lead,,,,,Stargate Equity,Not Contacted,9,Not found,"Abu Dhabi sovereign fund - may need different approach",,Research contact
